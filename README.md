@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QILINXIE02, a full stack JS developer based in Portland, OR area. 
+- 👋 Hi, I’m Qilin Xie, a full stack JS developer based in Portland, OR area. 
 - 👀 I’m passionate in leveraging tech for impactful solutions such as briding the connection of education and technology by hosting a coding program.
 - 💞️ I’m looking to collaborate on projects that merge coding and education.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/qilinxie/)
