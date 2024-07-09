@@ -23,8 +23,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="linkedin.com/in/qilinxie/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<h2>⚡️GitHub Status</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=QILINXIE02&show_icons=true&locale=en" alt="QILINXIE02" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QILINXIE02&" alt="QILINXIE02" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=QILINXIE02&show_icons=true&locale=en&layout=compact" alt="QILINXIE02" /></p>
