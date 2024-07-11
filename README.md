@@ -29,11 +29,11 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=QILINXIE02&show_icons=true&locale=en&layout=compact" alt="QILINXIE02" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=QILINXIE02" alt="QILINXIE02" /></a></p>
 
-- 📫 I like creating useful websites and mobile applications. Before software development, my background was in Education.  I love tutoring, and teaching students symbolic logic. I realized not only how much I appreicate logic myself but also enjoy sharing that understanding with others, especially when I use software tools to demonstrate concepts. 
+- 📫 I like creating user friendly websites and mobile applications. Before software development, my background was in Education.  I love tutoring, and teaching students symbolic logic. I realized not only how much I appreicate logic myself but also enjoy sharing that understanding with others, especially when I use software tools to demonstrate concepts. 
 
 - 🌱 My portfolio on GitHub reflects my dedication to constantly learning and improvement as a developer. I am always on the lookout for new projects that will push me out of my comfort zone and help me grow my skills.
 
-- 👀 I actively look for opportunities to connect with others in the field. Being Fluent in English, Mandarin, and Cantonese, and intermediate in Spanish, I bring a multicultural perspective to every project in tech. In my personal life, I like spending times outdoor.
+- 👀 I actively look for opportunities to connect with others in the field. Being Fluent in English, Mandarin, and Cantonese, and intermediate in Spanish, I bring a multicultural perspective to every project in tech. Outside of work, I like spending times outdoor.
 
 - 💞️ Thank you for visiting! Feel free to look around a leave a comment on a project! 💞️ 
 
