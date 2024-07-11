@@ -2,8 +2,6 @@
 
 <h1>Hi 👋, I'm a Full Stack JS developer based in Portland, OR area.</h1>
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=QILINXIE02.QILINXIE02)
-
 - 👋 Qilin Xie, she/her.
 - 🌱 I completed my certification in Advanced Software Development as part of the Code Fellows full-stack software development program.
 - 👀 I’m passionate in leveraging tech for impactful solutions such as bridging the connection of education and technology by hosting a coding program.
