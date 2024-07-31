@@ -1,6 +1,6 @@
 ![Blue Modern Gradient Technology LinkedIn Banner](https://github.com/QILINXIE02/QILINXIE02/assets/146989043/96fceef2-f6d8-41f8-9da1-411f1b1c8929)
 
-<h1>Hi 👋, I'm a Full Stack JS developer based in Portland, OR area.</h1>
+<h1>Hi 👋, I'm a Full Stack JS developer based in Portland/Salem, OR area.</h1>
 
 - 👋 Qilin Xie, she/her.
 - 🌱 I completed my certification in Advanced Software Development as part of the Code Fellows full-stack software development program.
