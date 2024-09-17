@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm a Full Stack JS developer based in Portland/Salem, OR area.</h1>
 
-- 👋 Qilin Xie, she/her.
+- 👋 Qilin Xie, she/her/hers.
 - 🌱 I completed my certification in Advanced Software Development as part of the Code Fellows full-stack software development program.
 - 👀 I’m passionate in leveraging tech for impactful solutions such as bridging the connection of education and technology by hosting a coding program.
 - 💞️ I’m looking to collaborate on projects that merge coding and education.
